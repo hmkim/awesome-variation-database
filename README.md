@@ -21,3 +21,8 @@ http://www.internationalgenome.org
 **ExAC**
 
 http://exac.broadinstitute.org
+
+
+Reference
+- https://github.com/OpenGene/awesome-bio-datasets
+- https://github.com/seandavi/awesome-cancer-variant-databases
