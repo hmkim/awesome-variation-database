@@ -23,6 +23,12 @@ http://www.internationalgenome.org
 http://exac.broadinstitute.org
 
 
+**ALFRED**
+
+ALFRED is a resource of gene frequency data on human populations 
+supported by the U. S. National Institute of Justice.
+https://alfred.med.yale.edu/alfred/index.asp
+
 
 **Reference**
 
